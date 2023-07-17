@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,800;1,600&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+
+.container{
+    display: flex;
+}
+.child-1{
+    display: flex;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    
+}
+.h4{
+    color: #3A3A3A;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+left: 4px;
+}
+.baby{
+    color: #3A3A3A;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+gap: 10px;
+margin-left: 45px;
+}
+.child-2{
+    position: relative;
+    left: 80px;
+}
+.img{
+    position: relative;
+    top: 15px;
+    margin-left: 37px;
+}
+.container-1{
+    display: flex;
+
+}
+.img-1{
+    position: relative;
+    left: 285px;
+    top: 30px;
+}
+.h2{
+    color: #3A3A3A;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px; /* 134.615% */
+
+}
+.p{
+    color: #3A3A3A;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 9px
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.sm-container{
+    position: relative;
+    left: 85px;
+    top: 70px;
+}
+.header{
+    background-image: url(/images/Circle\ design.svg);
+}
+.button{
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 41px;
+background: #E02C6D;
+display: inline-flex;
+padding: 5px 24px;
+align-items: flex-start;
+gap: 0px;
+color: #FFF;
+}
+.sma-container{
+    height: 20px;
+    left: 100px;
+    justify-content: space-between;
+    position: relative;
+   top: 165px
+   
+   
+   
+}
+.im-{
+    margin-left: 55px;
+    width: 80px;
+}
+.h3--{
+    position: relative;
+    top: 340px;
+    left: 510px;
+}
+.h4-st{
+    color: var(--text-gray-900, #18191F);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 142.857% */
+
+}
+.h4--st{
+    color: rgba(0, 0, 0, 0.87);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 36px */
+
+}
+.p--st{
+    color: var(--gray-50, #787885);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 143%; /* 20.02px */
+letter-spacing: 0.252px;
+
+}
+.b-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 1050px;
+    position: relative;
+    left: 120px;
+    top: 380px;
+    height: 1700px;
+}
+.see{
+    position: relative;
+   top: 380px;
+   left: 1050px;
+   color: rgba(224, 44, 109, 0.87);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.main--containerr{
+    display: flex;
+    position: relative;
+    top: 440px;
+    height: 300px;
+}
+.small--contai{
+    position: relative;
+    left: 170px;
+    top: -30px;
+}
+.img-11{
+   height: 250px;
+   width: 350px;
+   position: relative;
+   left: 100px;
+}
+.h33-secti{
+    color: #0A0826;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 157.895% */
+
+
+}
+.pp-secti{
+    color: #6C6C6C;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 175% */
+
+}
+.join-now{
+    color: #FFF;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background: #E02C6D;
+
+}
+.sifat{
+    position: relative;
+    top: 620px;
+    left: 0px;
+    background: #0A0826;
+}
+.nishat{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 500px;
+    margin-left: 10px;
+}
+.loton{
+    color: #FFF;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+left: 500px;
+top: 30px;
+
+}
+.loton-2{
+    color: var(--text-gray-300, #D9DBE1);
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 171.429% */
+position: relative;
+left: 500px;
+top: 5px;
+
+}
+
